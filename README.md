@@ -1,1 +1,2 @@
-# OI-zeroichi.github.io
+# About
+WEBサイトをつくる練習をしています。
