@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="jp">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css" type="text/css" />
+
+    <script type="application/javascript"></script>
+  </head>
+  <body onload="loadImage('preview');draw()">
+    <h1>キャラシをつくるよ</h1>
+    <p>Twitter投稿に適したサイズのキャラシを作成できます。</p>
+    <p>画像サイズ: 1280x720 (16:9)</p>
+    <canvas id="canvas" width="1280" height="720"></canvas>
+    <button id="download">Download</button>
+
+    <script src="./js/canvas.js"></script>
+    <script src="./js/btn.js"></script>
+
+    <div>
+      <canvas id="preview"></canvas>
+      <p>
+        <input type="text" id="canvas_text" value="我輩は犬である" />
+        <button onclick="drawText('preview', 'canvas_text');">
+          文字を描く
+        </button>
+      </p>
+    </div>
+  </body>
+</html>
