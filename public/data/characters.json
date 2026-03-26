@@ -1,0 +1,415 @@
+{
+  "projectId": "dogusare-seven",
+  "count": 15,
+  "items": [
+    {
+      "id": "lucifer",
+      "status": "draft",
+      "sortOrder": 1,
+      "isActive": true,
+      "name": {
+        "ja": "ルシファー",
+        "en": "Lucifer"
+      },
+      "summary": {
+        "ja": "保存テストOK",
+        "en": "新規キャラクター"
+      },
+      "personality": "あああ",
+      "appearance": "あああ",
+      "notes": "地獄の皇帝。宇宙一の美形でナルシストだが、責任感も強い。サタンとは対等に会話できる希少な関係。",
+      "classification": {
+        "species": "demon",
+        "role": "deuteragonist",
+        "affiliations": [
+          "hell"
+        ]
+      },
+      "motifs": [
+        "pride",
+        "beauty",
+        "authority",
+        "light"
+      ],
+      "locations": [
+        "hell_palace"
+      ]
+    },
+    {
+      "id": "satan",
+      "status": "draft",
+      "sortOrder": 2,
+      "isActive": true,
+      "name": {
+        "ja": "サタン",
+        "en": "Satan"
+      },
+      "summary": {
+        "ja": "新規キャラクターあああああ",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "人間に知恵を授けた張本人。契約は結ばない。人間の成長や文化に興味がある。いえい",
+      "classification": {
+        "species": "demon",
+        "role": "protagonist",
+        "affiliations": [
+          "hell"
+        ]
+      },
+      "motifs": [
+        "wisdom",
+        "humanity",
+        "curiosity"
+      ],
+      "locations": []
+    },
+    {
+      "id": "leviathan",
+      "status": "draft",
+      "sortOrder": 3,
+      "isActive": true,
+      "name": {
+        "ja": "レヴィアタン",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "レヴィアタン。七つの大罪の嫉妬を象徴する悪魔。海の怪物。子どものような外見をしているが実際は毒舌で人見知り。",
+      "classification": {
+        "species": "demon",
+        "role": "seven-deadly-sins",
+        "affiliations": [
+          "affiliation_hell"
+        ]
+      },
+      "motifs": [
+        "concept_envy"
+      ],
+      "locations": []
+    },
+    {
+      "id": "belphegor",
+      "status": "draft",
+      "sortOrder": 4,
+      "isActive": true,
+      "name": {
+        "ja": "ベルフェゴール",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "ベルフェゴール。七つの大罪の怠惰を象徴する悪魔。面倒くさがりの不精者。青いニット帽を被り古着系ファッションを好む。",
+      "classification": {
+        "species": "demon",
+        "role": "seven-deadly-sins",
+        "affiliations": [
+          "affiliation_hell"
+        ]
+      },
+      "motifs": [
+        "concept_sloth"
+      ],
+      "locations": []
+    },
+    {
+      "id": "beelzebub",
+      "status": "draft",
+      "sortOrder": 5,
+      "isActive": true,
+      "name": {
+        "ja": "ベルゼブブ",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "ベルゼブブ。七つの大罪の暴食を象徴する悪魔。恐ろしい悪魔のふりをして周囲を怖がらせるのが好きだが実はお笑い好き。",
+      "classification": {
+        "species": "demon",
+        "role": "seven-deadly-sins",
+        "affiliations": [
+          "affiliation_hell"
+        ]
+      },
+      "motifs": [
+        "concept_gluttony"
+      ],
+      "locations": []
+    },
+    {
+      "id": "mammon",
+      "status": "draft",
+      "sortOrder": 6,
+      "isActive": true,
+      "name": {
+        "ja": "マモン",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "マモン。七つの大罪の強欲を象徴する悪魔。金が好きでケチ。一人称はボク。",
+      "classification": {
+        "species": "demon",
+        "role": "seven-deadly-sins",
+        "affiliations": [
+          "affiliation_hell"
+        ]
+      },
+      "motifs": [
+        "concept_greed"
+      ],
+      "locations": []
+    },
+    {
+      "id": "asmodeus",
+      "status": "draft",
+      "sortOrder": 7,
+      "isActive": true,
+      "name": {
+        "ja": "アスモデウス",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "アスモデウス。七つの大罪の色欲を象徴する悪魔。欲望や愛の研究者。世話焼きで母親のような性格。",
+      "classification": {
+        "species": "demon",
+        "role": "seven-deadly-sins",
+        "affiliations": [
+          "affiliation_hell"
+        ]
+      },
+      "motifs": [
+        "concept_lust",
+        "concept_eros"
+      ],
+      "locations": []
+    },
+    {
+      "id": "belial",
+      "status": "draft",
+      "sortOrder": 8,
+      "isActive": true,
+      "name": {
+        "ja": "ベリアル",
+        "en": "Belial"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "地獄の法務担当。悪魔の契約書を管理する弁護士的存在。自信家で狡猾だが、ルールと法には厳格。",
+      "classification": {
+        "species": "demon",
+        "role": "supporting",
+        "affiliations": [
+          "hell"
+        ]
+      },
+      "motifs": [
+        "law",
+        "order",
+        "evil",
+        "judgment"
+      ],
+      "locations": []
+    },
+    {
+      "id": "lilith",
+      "status": "draft",
+      "sortOrder": 9,
+      "isActive": true,
+      "name": {
+        "ja": "リリス",
+        "en": "Character 002"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "リリス。原初の女性悪魔。悪魔たちとも独特の距離感で接する。",
+      "classification": {
+        "species": "demon",
+        "role": "primordial-demon",
+        "affiliations": [
+          "affiliation_hell"
+        ]
+      },
+      "motifs": [],
+      "locations": []
+    },
+    {
+      "id": "samael",
+      "status": "draft",
+      "sortOrder": 10,
+      "isActive": true,
+      "name": {
+        "ja": "サマエル",
+        "en": "Samael"
+      },
+      "summary": {
+        "ja": "保存テストOK",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "サマエル。天使の中でも特に献身性が強く、神への忠誠を象徴する存在。",
+      "classification": {
+        "species": "demon",
+        "role": "angel",
+        "affiliations": [
+          "affiliation_heaven"
+        ]
+      },
+      "motifs": [],
+      "locations": []
+    },
+    {
+      "id": "raphael",
+      "status": "draft",
+      "sortOrder": 11,
+      "isActive": true,
+      "name": {
+        "ja": "ラファエル",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "ラファエル。緑髪と白い翼を持つ大天使。神の加護を受けた圧倒的な力を持つ。",
+      "classification": {
+        "species": "angel",
+        "role": "archangel",
+        "affiliations": [
+          "affiliation_heaven"
+        ]
+      },
+      "motifs": [],
+      "locations": []
+    },
+    {
+      "id": "character_001",
+      "status": "draft",
+      "sortOrder": 12,
+      "isActive": true,
+      "name": {
+        "ja": "Character 001",
+        "en": "Character 001"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "",
+      "classification": {
+        "species": "",
+        "role": "",
+        "affiliations": []
+      },
+      "motifs": [],
+      "locations": []
+    },
+    {
+      "id": "character_002",
+      "status": "draft",
+      "sortOrder": 13,
+      "isActive": true,
+      "name": {
+        "ja": "Character 002",
+        "en": "Character 002"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "",
+      "classification": {
+        "species": "",
+        "role": "",
+        "affiliations": []
+      },
+      "motifs": [],
+      "locations": []
+    },
+    {
+      "id": "character_003",
+      "status": "draft",
+      "sortOrder": 14,
+      "isActive": true,
+      "name": {
+        "ja": "Character 003",
+        "en": "Character 003"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "",
+      "classification": {
+        "species": "",
+        "role": "",
+        "affiliations": []
+      },
+      "motifs": [],
+      "locations": []
+    },
+    {
+      "id": "character_004",
+      "status": "draft",
+      "sortOrder": 15,
+      "isActive": true,
+      "name": {
+        "ja": "Character 004",
+        "en": "Character 004"
+      },
+      "summary": {
+        "ja": "新規キャラクター",
+        "en": "新規キャラクター"
+      },
+      "personality": "",
+      "appearance": "",
+      "notes": "",
+      "classification": {
+        "species": "",
+        "role": "",
+        "affiliations": []
+      },
+      "motifs": [],
+      "locations": []
+    }
+  ]
+}
